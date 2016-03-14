@@ -1,0 +1,17 @@
+{
+"RECORDS":[
+{
+"id":"1",
+"image_url":"https://suttonbusinesssupport.co.uk/wp-content/uploads/2016/03/empire-cinema.jpg",
+"title":"Empire Cinemas",
+"summary":"<p>Modern chain cinema with a programme of the latest releases and themed series of specialist films.</p>",
+"description":"<table>\n<th>Opening Times</th>\n<tr>\n<td>Monday</td>\t<td>09:00</td>\t<td>-</td>\t<td>17:30</td>\n</tr>\n<tr>\n<td>Tuesday</td>\t<td>09:00</td>\t<td>-</td>\t<td>17:30</td>\n</tr>\n<tr>\n<td>Wednesday</td>\t<td>09:00</td>\t<td>-</td>\t<td>17:30</td>\n</tr>\n<tr>\n<td>Thursday</td>\t<td>09:00</td>\t<td>-</td>\t<td>20:00</td>\n</tr>\n<tr>\n<td>Friday</td>\t<td>09:00</td>\t<td>-</td>\t<td>17:30</td>\n</tr>\n<tr>\n<td>Saturday</td>\t<td>09:00</td>\t<td>-</td>\t<td>17:30</td>\n</tr>\n<tr>\n<td>Sunday</td>\t<td>11:00</td>\t<td>-</td>\t<td>17:00</td>\n</tr>\n</table>",
+"whats_on":"http://www.empirecinemas.co.uk/index.php?tbx_site_id=36",
+"address":"St Nicholas Way",
+"town":"Sutton",
+"Postcode":"SM1 1AZ",
+"telephone":"08714714714",
+"website":"http://empirecinemas.co.uk"
+}
+]
+}
