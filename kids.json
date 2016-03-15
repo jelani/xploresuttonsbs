@@ -1,0 +1,43 @@
+{
+"RECORDS":[
+{
+"id":"1",
+"image_url":"https://suttonbusinesssupport.co.uk/wp-content/uploads/2016/03/village-ceramics.jpg",
+"title":"Village Ceramics",
+"summary":"Hobby ceramics, Mosaics, Children's Parties, Activity Groups and Much More!",
+"description":"<p>Charlotte Harris founded Village Ceramics after leaving college in 1997. She had been an active hobby ceramicist for a couple of years before but decided that rather than work for someone else she would set up her own business doing what she enjoyed doing most.</p>\n\n<p>At Village Ceramics we pride ourselves in the help and guidance we provide for our guests. We are only too happy to show you different techniques and help with any of the difficult bits! Year after year we have customers who come back to us and we can only put it down to our friendly staff and relaxed and inviting studio. We are extremely children friendly & will go out of our way to make your visit to Village Ceramics an enjoyable one. We have high chairs for little ones, along with a baby changing area, nappy bin, microwave for warming milk or food & even better drinks and biscuits are totally free!!!</p>",
+"whats_on":"<table>\n<tr>\n<td>Saturday:</td>\n<td>9.00am - 6.00pm</td>\n</tr><tr>\n<td>Sunday:</td>\n<td>11.00am - 5.00pm</td>\n</tr><tr>\n<td>Monday:</td>\n<td>10.00am - 5.30pm</td>\n</tr><tr>\n<td>Tuesday:</td>\n<td>10.00am - 5.30pm</td>\n</tr><tr>\n<td>Wednesday:</td>\n<td>10.00am - 5.30pm</td>\n</tr><tr>\n<td>Thursday:</td>\n<td>10.00am - 5.30pm</td>\n</tr><tr>\n<td>Friday:</td>\n<td>10.00am - 5.30pm</td>\n</tr>\n</table>",
+"address":"31 Station Way",
+"town":"Cheam Village",
+"Postcode":"SM3 8SP",
+"telephone":"02086617837",
+"website":"http://www.villageceramics.co.uk/"
+},
+{
+"id":"2",
+"image_url":"https://suttonbusinesssupport.co.uk/wp-content/uploads/2016/03/sutton-tennis-academy.jpg",
+"title":"Sutton Tennis Academy",
+"summary":"London's Premier Tennis Academy & LTA High Performance Centre",
+"description":"<p>We offer a wide variety of tennis programmes to suit players of all levels both locally and internationally, but we specialise in preparing young athletes for elite level through full-time training and tournament involvement. Our facilities provide not only fantastic tennis courts but access to fitness equipment, specialist strength and conditioning coaches and a sports injury clinic, as well as options to combine tennis with education and accommodation nearby.</p>\n<p>Sutton Tennis Academy aims to provide excellence in tennis coaching programmes and facilities that will enable players of all ages and abilities to fulfil their tennis potential, including achievement at the highest international level in the sport, while also supporting the local community of Sutton, Surrey.</p>",
+"whats_on":"",
+"address":"Rosehill Park",
+"town":"Sutton",
+"Postcode":"SM1 3HH",
+"telephone":"02086416611",
+"website":"http://www.suttontennisacademy.com/"
+},
+{
+"id":"3",
+"image_url":"",
+"title":"David Weir Leisure Centre",
+"summary":"The David Weir Leisure Centre houses Rascals formerly known as Merlins Magical Kingdom which is a soft play centre for children between 2 and 10 years old with a max height of 4ft 10inches.",
+"description":"<h3>Opening Times</h3>\n<ul>\n<li>Weekdays 7am to 10pm</li>\n<li>Weekends 8am to 6pm</li>\n</ul>",
+"whats_on":"",
+"address":"Middleton Road",
+"town":"Carshalton",
+"Postcode":"SM5 1SL",
+"telephone":"02086419480",
+"website":""
+}
+]
+}
