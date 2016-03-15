@@ -1,0 +1,26 @@
+{
+"RECORDS":[
+{
+"id":"1",
+"title":"Gibson Road",
+"image_url":"",
+"opening_hours":"<h3>Opening hours</h3>>\n<ul>\n    <li>Monday to Saturday - 6:00 am to 11.30 pm</li>\n    <li>Sunday - 9:30 am to 6 pm </li>\n</ul>",
+"address":"Gibson Road",
+"town":"Sutton",
+"postcode":"SM1 2RF",
+"tarriffs":"<table>\n<tr>\n<td>Time Spent</td> \t<td>Charges</td>\n</tr><tr>\n<td>30 mins</td> \t<td>£0.60</td>\n</tr><tr>\n<td>1 hour</td> \t<td>£1.50</td>\n</tr><tr>\n<td>2 hours</td> \t<td>£2.50</td>\n</tr><tr>\n<td>3 hours</td> \t<td>£3.50</td>\n</tr><tr>\n<td>4 hours</td> \t<td>£4.50</td>\n</tr><tr>\n<td>All day</td> \t<td>£4.50</td>\n</tr><tr>\n<td>All day Sunday & public holidays</td> \t<td>£1.00</td>\n</tr><tr>\n<td>Quarterly season ticket</td> \t<td>£200 + VAT(£240 including VAT)</td>\n</tr>\n</table>",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4982.5162758076!2d-0.20095100000000002!3d51.361551!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6120c77dcd45a975!2sGibson+Road+Multistorey+Car+Park!5e0!3m2!1sen!2suk!4v1458048875292\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+},
+{
+"id":"2",
+"title":"Time Square",
+"image_url":"",
+"opening_hours":"<h3>Opening hours</h3>\n<ul>\n    <li>Monday to Saturday - 7:00am to 8.30pm </li>\n    <li>Sundays - 9.30am to 6pm</li>\n    </ul>",
+"address":"Throwley Way",
+"town":"Sutton",
+"postcode":"SM1 4BG",
+"tarriffs":"<table>\n<tr>\n<td>Time Spent</td> \t<td>Charges</td>\n</tr><tr>\n<td>1 hour</td> \t<td>£2.00</td>\n</tr><tr>\n<td>2 hours</td> \t<td>£3.00</td>\n</tr><tr>\n<td>3 hours</td> \t<td>£4.00</td>\n</tr><tr>\n<td>4 hours</td> \t<td>£5.00</td>\n</tr><tr>\n<td>All day</td> \t<td>£5.00</td>\n</tr><tr>\n<td>All day Sunday & public holidays</td> \t<td>£1.00</td>\n</tr><tr>\n<td>Quarterly season ticket</td> \t<td>£333.33 + VAT(£400 including VAT)</td>\n</tr>\n</table>",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2491.1078488708054!2d-0.191516!3d51.364314!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc549eec98f094221!2sTimes+Square+Shoppers+Car+Park!5e0!3m2!1sen!2suk!4v1458049440940\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+}
+]
+}
