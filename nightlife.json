@@ -2,7 +2,7 @@
 "RECORDS":[
 {
 "id":"1",
-"image_url":"http://maps.googleapis.com/maps/api/streetview?size=640x360&pano=l8GZ4EI96D8ze9getjXLdQ&heading=17.323752417237156&fov=89.3783125930511&pitch=4.491498432331211&sensor=false",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/wonderland.jpg",
 "title":"Wonderland",
 "summary":"Nightclub for chart and dance anthems amid 2-floors of theatriclaly kistsch decor and furnishings.",
 "description":"",
@@ -16,7 +16,7 @@
 },
 {
 "id":"2",
-"image_url":"http://maps.googleapis.com/maps/api/streetview?size=640x360&pano=LPyLwtI2fxswq_5QMyGZGA&heading=181.3423956028766&fov=14.33868016790699&pitch=1.4755323449225335&sensor=false",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/ivory-lounge.jpg",
 "title":"Ivory Lounge",
 "summary":"Slick modern bar with a simple menu of global comfort food, cocktails and alcoholic milkshakes.",
 "description":"",
