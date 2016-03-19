@@ -28,7 +28,7 @@
 "telephone":"02086617323",
 "website":"http://www.partysuperstores.co.uk",
 "map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.1314381046664!2d-0.1964389840124493!3d51.36388032900717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080bf64518b1%3A0xc0875b15b1e83d5a!2sParty+Superstores!5e0!3m2!1sen!2suk!4v1458415090803\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-"category":""
+"category":"Dress, Fancy, Costumes, Fireworks, Decorations, Tableware"
 },
 {
 "id":"3",
@@ -43,7 +43,7 @@
 "telephone":"02086422825",
 "website":"http://www.clarks.co.uk/?cm_mmc=Google-_-Maps-_-na-_-na",
 "map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.169350636052!2d-0.19540728401245888!3d51.36318332905808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c05ea4e93%3A0xcfd1b66de1b73c11!2sClarks+Shoes!5e0!3m2!1sen!2suk!4v1458415402336\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-"category":""
+"category":"Shoes, Footwear, Handbags, Wallets"
 },
 {
 "id":"4",
@@ -58,7 +58,7 @@
 "telephone":"02087707767",
 "website":"https://www.partica.co.uk",
 "map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.086981520441!2d-0.19644538401241354!3d51.364697628947546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c6799e4df%3A0x875ab7ea2fe6d278!2sPartica+Sutton!5e0!3m2!1sen!2suk!4v1458415675416\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-"category":""
+"category":"Party, Fashion, Stag, Hen"
 },
 {
 "id":"5",
@@ -73,7 +73,112 @@
 "telephone":"02087701640",
 "website":"http://www.robertdyas.co.uk",
 "map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.0976428788995!2d-0.19676968401239053!3d51.36450162896189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c5b94682d%3A0xa6e5b6211ee95531!2sRobert+Dyas!5e0!3m2!1sen!2suk!4v1458416005875\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
-"category":""
+"category":"Homeware, Kitchen, DIY, Electricals, Garden"
+},
+{
+"id":"6",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/primark.jpg",
+"title":"Primark Sutton",
+"summary":"Discount fashion chain offering clothes and accessories for all ages, plus homewares",
+"description":"",
+"opening_times":"",
+"address":"St Nicholas Centre",
+"town":"Sutton ",
+"postcode":"SM1 1AX",
+"telephone":"02086619234",
+"website":"http://www.primark.com/en/homepage",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.134185007768!2d-0.19645128401241396!3d51.36382982901105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c6799e4df%3A0xe566014b8d81fadb!2sPrimark+Sutton!5e0!3m2!1sen!2suk!4v1458426778706\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Retail, Clothes, Homeware, Fashion"
+},
+{
+"id":"7",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/debenhams.jpg",
+"title":"Debenhams",
+"summary":"Department store chain selling own-brands and international fashion, beauty and homeware products",
+"description":"",
+"opening_times":"",
+"address":"St Nicholas Centre",
+"town":"Sutton",
+"postcode":"SM1 1WA",
+"telephone":"08445616161",
+"website":"http://mystore.debenhams.com/store/85-sutton",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.040435646157!2d-0.19704868401234868!3d51.36555332888517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c5b94682d%3A0xd9f7574c80b48286!2sDebenhams!5e0!3m2!1sen!2suk!4v1458427183126\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Fashion, Beauty, Homeware"
+},
+{
+"id":"8",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/pearsons-cycle.jpg",
+"title":"Pearsons Cycle Specialists",
+"summary":"Store with claim on world's oldest cycle shop title, selling mountain and road bikes, plus repairs",
+"description":"",
+"opening_times":"",
+"address":"126 High St",
+"town":"Sutton",
+"postcode":"SM1 1LU",
+"telephone":"02086422095",
+"website":"http://www.pearsoncycles.co.uk",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.146276797869!2d-0.1953397840124337!3d51.363607529027185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c0989dbaf%3A0x46404bee314faa36!2sPEARSON+CYCLE+SPECIALISTS!5e0!3m2!1sen!2suk!4v1458427708803\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Bicycles, Mountain Bikes, Road Bikes, Repairs"
+},
+{
+"id":"9",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/gallery-gift.jpg",
+"title":"Gallery Gifts Ltd",
+"summary":"",
+"description":"",
+"opening_times":"",
+"address":"157-159 High St",
+"town":"Sutton",
+"postcode":"SM1 1JH",
+"telephone":"02086420990",
+"website":"http://www.gallerygiftsonline.co.uk",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.0962884528362!2d-0.19626898401241322!3d51.364526528960035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c6f42b807%3A0x8845edb014e3e544!2sGallery+Gifts+Ltd!5e0!3m2!1sen!2suk!4v1458427846405\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Arts, Gallery, Gifts, Collectibles, Ceramics"
+},
+{
+"id":"10",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/accesorize.jpg",
+"title":"Accessorize",
+"summary":"Ladies' Clothes Shop",
+"description":"",
+"opening_times":"",
+"address":"29A St Nicholas  Shopping Centre",
+"town":"Sutton",
+"postcode":"",
+"telephone":"02086429459",
+"website":"http://uk.accessorize.com",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d79641.83145884621!2d-0.27308601787354425!3d51.40659656153732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c6799e4df%3A0x9933fb2280172870!2sAccessorize!5e0!3m2!1sen!2suk!4v1458428386411\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Women, Clothes, Bags, Hats, Jewelry, Accessories"
+},
+{
+"id":"11",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/ee.jpg",
+"title":"EE",
+"summary":"Digital communications chain offering mobile and broadband services, plus phone and tablet sales",
+"description":"",
+"opening_times":"",
+"address":"153 High St",
+"town":"Sutton",
+"postcode":"SM1 1JH",
+"telephone":"02086619659",
+"website":"http://shop.ee.co.uk",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.0977679865023!2d-0.19601968401242748!3d51.36449932896198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c6f42b807%3A0x57df6b909ae2db68!2sEE!5e0!3m2!1sen!2suk!4v1458428577661\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Phones, tablets, Mobile, broadband"
+},
+{
+"id":"12",
+"image_url":"https://raw.githubusercontent.com/jelani/xploresuttonsbs/feature-xplore/images/waren-james.jpg",
+"title":"Warren James",
+"summary":"",
+"description":"",
+"opening_times":"",
+"address":"97 High St",
+"town":"Sutton",
+"postcode":"SM1 1JF",
+"telephone":"02087700080",
+"website":"http://www.warrenjames.co.uk/?utm_source=Google&utm_medium=Maps&utm_content=storecode_SX&utm_campaign=googleplace",
+"map":"<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.1698945721264!2d-0.19551468401241537!3d51.36317332905883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876080c05ea4e93%3A0x2d27101ee33a70a5!2sWarren+James+Jewellers+-+Sutton!5e0!3m2!1sen!2suk!4v1458428961041\" width=\"400\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+"category":"Jewelry, Swarosvski, Rings, Necklaces, Chains, Earrings, Bracelets, Charms"
 }
 ]
 }
